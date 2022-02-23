@@ -1,2 +1,5 @@
-we write this for funsies
-jk
+This is my first git
+I tried
+to make this rhyme fit
+but poems are hard
+so here, I commit.
